@@ -1,6 +1,6 @@
-# 🚀 NeoShare: Real-Time Hybrid File Sharing
+# 🚀 File-Share-App: Real-Time Hybrid File Sharing
 
-NeoShare is a professional, high-performance mobile application built with Flutter that enables users to transfer files seamlessly using either local Peer-to-Peer (P2P) connections or a high-speed Cloud fallback. Inspired by the Neo 1 wearable ecosystem, it prioritizes proximity-based sharing while ensuring reliability through global cloud infrastructure.
+File-Share-App is a professional, high-performance mobile application built with Flutter that enables users to transfer files seamlessly using either local Peer-to-Peer (P2P) connections or a high-speed Cloud fallback. Inspired by the Neo 1 wearable ecosystem, it prioritizes proximity-based sharing while ensuring reliability through global cloud infrastructure.
 
 ---
 
